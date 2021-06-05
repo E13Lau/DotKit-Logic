@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DotKit",
+        "repositoryURL": "https://github.com/E13Lau/DotKit.git",
+        "state": {
+          "branch": null,
+          "revision": "aef69a3f6a8b2202d9d1ea13b510e46a6df93a9e",
+          "version": "0.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
